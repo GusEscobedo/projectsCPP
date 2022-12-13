@@ -1,0 +1,6 @@
+﻿  ExaPar3P3_GustavoEscobedo.cpp
+C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo.cpp(25,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo.cpp(30,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo.cpp(57,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo.cpp(48,6): warning C4101: 'change': variable local sin referencia
+  ExaPar3P3_GustavoEscobedo.vcxproj -> C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\Debug\ExaPar3P3_GustavoEscobedo.exe
