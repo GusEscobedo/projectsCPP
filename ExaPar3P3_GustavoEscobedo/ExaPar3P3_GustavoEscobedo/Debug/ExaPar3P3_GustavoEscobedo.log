@@ -1,0 +1,3 @@
+﻿  ExaPar3P3_GustavoEscobedo.cpp
+C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo\ExaPar3P3_GustavoEscobedo.cpp(140,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ExaPar3P3_GustavoEscobedo.vcxproj -> C:\Users\ALUMNOS\source\repos\ExaPar3P3_GustavoEscobedo\Debug\ExaPar3P3_GustavoEscobedo.exe
